@@ -1,8 +1,7 @@
 # House-Price-Pridiction
 It is a machine learning project
 ## Overview
-
-Predicting house prices is a coeld of rmmon machine learning task in the fieal estate and finance. In this project, we leverage a dataset of historical housing data to develop a machine learning model that can accurately predict house prices based on various features like square footage, number of bedrooms, location, etc.
+This repository contains code and resources for a house price prediction project.Predicting house prices is a common and valuable machine learning task in the real estate and finance industries. Accurate predictions can help buyers, sellers, and investors make informed decisions.  In this project, we aim to build a machine learning model that can predict the prices of houses based on various features such as size, number of bedrooms, location, and more. 
 
 ## Dataset
 
